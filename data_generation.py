@@ -34,7 +34,7 @@ customers_collection=database["customers"]
 
 #products=[]
 #customers=[]
-#here there is worst case, ask about these to anay sir
+
 
 #checking if collection contains records, if contains then fetching last documnets's product_id value and then cretaing new documents
 #product id accordingly
